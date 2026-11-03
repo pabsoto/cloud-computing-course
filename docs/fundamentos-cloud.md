@@ -5,7 +5,7 @@ sidebar_position: 2
 # Fundamentos Cloud
 
 Esta página introduce los conceptos esenciales de la computación en la nube: su evolución, la definición y características según NIST, y los modelos de servicio.
-
+Este es un cambio para el desafío de GitHub Pages.
 ---
 
 ## Evolución hacia Cloud
