@@ -15,11 +15,10 @@ const config: Config = {
   },
 
   // GitHub Pages - Repo: https://github.com/JuanJoseMirandaM/cloud-computing-course
-  url: 'https://juanjosemirandam.github.io',
-  baseUrl: '/cloud-computing-course/',
-
-  organizationName: 'JuanJoseMirandaM',
-  projectName: 'cloud-computing-course',
+  url: 'https://pabsoto.github.io',
+baseUrl: '/cloud-computing-course/',
+organizationName: 'pabsoto',
+projectName: 'cloud-computing-course',
 
   deploymentBranch: 'gh-pages',
   trailingSlash: true,
