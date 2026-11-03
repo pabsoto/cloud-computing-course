@@ -5,7 +5,7 @@ sidebar_position: 1
 # Bienvenidos al Curso
 
 Bienvenidos a la documentación del curso de **Computación en la Nube**. Aquí encontraras los materiales, guías y referencias para seguir el curso.
-
+Este es un cambio para el desafío de GitHub Pages.
 ---
 
 ## Objetivos del Curso
