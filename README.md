@@ -2,6 +2,8 @@
 
 Sitio de documentación del curso de Computación en la Nube, construido con [Docusaurus](https://docusaurus.io/).
 
+***********TEXTO DE PRUEBA: CAMBIOS EN EL README*******
+
 ## Instalación
 
 ```bash
